@@ -1,9 +1,0 @@
-- **Goodreads for online articles, emphasis on the social aspect where I can see what my friends are reading / showcasing what I read; **
-- A web scraping project for top companies I am interested in
-- QR Code Generator / Custom skins for QR Codes
-- Creating a chatbot with confidential data
-- Small games that are accessable with one switch (Small dice or card games)
-- Compare prices of produce from grocery stores
-- Phone project notes app
-- Leetcode analytics dashboard
-- Pallete generator for charts
